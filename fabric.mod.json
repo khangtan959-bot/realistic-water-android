@@ -1,0 +1,35 @@
+{
+        "schemaVersion": 1,
+        "id": "realistic-water-android",
+        "version": "${version}",
+        "name": "Realistic Water Android",
+        "description": "This mod allows you to run mod realistic water by skaafy on your phone.",
+        "authors": [
+                "khangtan959"
+        ],
+        "contact": {},
+        "license": "MIT",
+        "environment": "client",
+        "entrypoints": {
+                "client": [
+                        "me.rwbridge.Bridge"
+                ]
+        },
+        "mixins": [
+                {
+                        "config": "rw-android-bridge.mixins.json",
+                        "environment": "client"
+                }
+        ],
+        "depends": {
+                "fabricloader": ">=0.19.5",
+                "minecraft": "~26.3",
+                "java": ">=25",
+                "realistic-water": ">=1.3.1"
+        },
+        "custom": {
+                "modmenu": {
+                        "parent": "realistic-water"
+                }
+        }
+}

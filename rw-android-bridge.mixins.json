@@ -1,0 +1,19 @@
+{
+        "required": false,
+        "minVersion": "0.8",
+        "package": "me.rwbridge.mixin",
+        "compatibilityLevel": "JAVA_25",
+        "client": [
+                "ShadersMixin",
+                "VulkanBackendMixin",
+                "WaterRendererMixin",
+                "WaterSettingsInfoMixin",
+                "WaterSettingsMixin",
+                "WaterWorldMixin",
+                "GraphicsProgramMixin",
+                "ComputeProgramMixin"
+        ],
+        "injectors": {
+                "defaultRequire": 1
+        }
+}
