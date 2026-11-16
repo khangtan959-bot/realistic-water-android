@@ -16,3 +16,5 @@ This mod allows you to use sskaffy’s "Realistic Water" mod on your Android dev
 Original mod: https://github.com/sskaffy/Realistic-Water
 
 This is a bridge mod; it is not the original mod itself.
+## video
+https://youtu.be/2tKCrbxOMa8?si=leoADEaKFFV56odI
