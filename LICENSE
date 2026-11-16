@@ -1,21 +1,33 @@
-MIT License
+Copyright (c) 2026 Skaffy. All rights reserved.
 
-Copyright (c) 2026 Khangtan959
+Original project: https://github.com/sskaffy/Realistic-Water
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+You MAY:
+- Include this mod, unmodified, in any modpack, public or private.
+- Use this mod on any server (including servers with paid ranks/perks)
+  and in videos/streams.
+- Earn money from modpacks containing this mod through platform reward
+  programs (e.g. CurseForge, Modrinth).
+- Fork this mod: modify the source code and distribute your modified
+  version, as long as you follow the fork conditions below.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Fork conditions. Any fork or modified version must:
+- Clearly credit Skaffy as the author of the original mod.
+- Include a visible link to the original project on its mod page and
+  in its README or description.
+- State clearly that it is a modified version and not the original mod.
+- Be distributed under this same license, with this notice kept intact.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You MAY NOT:
+- Sell this mod, any fork of it, or any modpack containing either, or
+  put any of them behind a paywall (including paid early access).
+- Reupload this mod unmodified outside of a modpack, or bundle it inside
+  another mod (list it as a dependency instead).
+- Copy substantial portions of the source code into other projects,
+  except as a fork that follows the conditions above.
+- Claim this mod, or the original work within a fork, as your own.
+
+Modpacks including this mod must link back to the original mod page.
+
+THIS MOD IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHOR
+IS NOT LIABLE FOR ANY DAMAGES, DATA LOSS, OR ISSUES ARISING FROM ITS USE
