@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "realistic-water-android-mali",
+	"version": "${version}",
+	"name": "Realistic Water Android - Mali GPU",
+	"description": "Mali GPU support addon for the official Realistic Water Android bridge. On ARM Mali drivers (e.g. Mali-G52 Bifrost) that report Vulkan 1.2+ but lack compute subgroup ops or VK_KHR_push_descriptor, it serves hash-verified no-subgroup shader variants and a push-descriptor fallback - fixing 'Realistic Water failed' and unblocking water placement. Requires the official bridge (realistic-water-android).",
+	"authors": [
+		"khangtan959"
+	],
+	"contact": {},
+	"license": "MIT",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"me.rwmali.MaliAddon"
+		]
+	},
+	"mixins": [
+		{
+			"config": "rw-android-mali.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"realistic-water": ">=1.4.1",
+		"realistic-water-android": ">=1.0.0"
+	},
+	"custom": {
+		"modmenu": {
+			"parent": "realistic-water-android"
+		}
+	}
+}

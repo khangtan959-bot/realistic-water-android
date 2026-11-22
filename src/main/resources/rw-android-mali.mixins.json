@@ -1,0 +1,18 @@
+{
+	"required": false,
+	"minVersion": "0.8",
+	"priority": 1100,
+	"package": "me.rwmali.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"ShadersLoadMixin",
+		"ProgramCompatMixin",
+		"WaterWorldFrameMixin",
+		"WaterSettingsAddonMixin",
+		"WaterSettingsInfoAddonMixin",
+		"VulkanBackendMaliMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
